@@ -1,2 +1,12 @@
 # Mail-box.c
-Mailbox is a simple project to simulate a basic mail system with sender, subject, date, and body fields. Created as part of my personal learning journey, this repo helps me practice data organization and interface basics. It's a beginner-level project for learning purposes.
+This repository contains a basic implementation of a mailbox system written as part of my learning and experience in coding. It includes core components such as:
+
+Sender
+
+Subject
+
+Date
+
+Body
+
+The purpose of this project is to help me practice structuring data and working with simple interfaces. It's not meant for production use but serves as a record of my personal learning journey.
